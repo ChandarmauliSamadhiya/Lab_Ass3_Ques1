@@ -1,0 +1,8 @@
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\bin\Debug\Lab_Ass3_Ques7.exe.config
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\bin\Debug\Lab_Ass3_Ques7.exe
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\bin\Debug\Lab_Ass3_Ques7.pdb
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\obj\Debug\Lab_Ass3_Ques7.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\obj\Debug\Lab_Ass3_Ques7.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\obj\Debug\Lab_Ass3_Ques7.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\obj\Debug\Lab_Ass3_Ques7.exe
+C:\Users\acer\OneDrive\Desktop\C#\Lab_Ass3_Ques7\Lab_Ass3_Ques7\obj\Debug\Lab_Ass3_Ques7.pdb
